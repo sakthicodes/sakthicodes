@@ -1,7 +1,7 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <p align="center">
     
-![GitHub Cover](https://raw.githubusercontent.com/sakthicodes/sakthicodes/refs/heads/main/github-header-image.png)
+![GitHub Cover](https://github.com/sakthicodes/sakthicodes/blob/main/github-header-image-c.png)
     
 </p>
 
