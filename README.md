@@ -5,16 +5,6 @@
     
 </p>
 
-<!----------------------------------- About Section ------------------------------------>
-<p align="center">
-      <a href="https://github.com/sumit-sharma-02/sumit-sharma-02">
-        <img src="https://komarev.com/ghpvc/?username=sumit-sharma-02&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-      </a>
-      <a href="https://stackoverflow.com/users/17976599/">
-        <img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/17976599?style=for-the-badge&logo=stackoverflow&logoColor=orange&color=orange&label=Stack+Overflow">
-      </a>
-</p>
-<br>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2 align="center">
@@ -24,14 +14,10 @@
     <a/>
 </h2>
 <p align="center">
-    <img src="https://img.shields.io/badge/Angular-D6002F?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Expressjs" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs" />
-    <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb" />
-    <img src="https://img.shields.io/badge/Firebase-5f6368?style=for-the-badge&logo=firebase&logoColor=FFCC30" alt="Firebase" />
     <img src="https://img.shields.io/badge/JSON Web Token-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JSON Web Token" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
