@@ -107,27 +107,6 @@
     </a>
 </p>
 <br>
-<h2 align="center">
-    My Contributions on GitHub
-    <a>
-    <img align="center" src="https://user-images.githubusercontent.com/52236473/211459238-0e2284bc-b22f-410f-aa65-1ba1883c6983.png" width="30" />
-    </a>   
-</h2>
-<p align="center">
-    <img align="center" src="https://raw.githubusercontent.com/sumit-sharma-02/sumit-sharma-02/output/github-contribution-grid-snake.svg" alt="Snake Animation for GitHub Contributions"
-</p>
-<br>
-
-<!----------------------------------- Stack Overflow Stats Section ------------------------------------>
-<h2 align="center">
-    My Stack Overflow Stats
-    <a>
-        <img align="center" src="https://user-images.githubusercontent.com/52236473/210717541-d04de2c8-6180-4608-bf9a-366b155f403e.png" width="30" />
-    <a/>
-</h2>
-<p align="center">
-    <img align="center" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=17976599&show_icons=true&theme=dark" alt="Stack Overflow Stats" />
-</p>
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 <h2 align="center">
@@ -148,15 +127,4 @@
     </a>
 </p>
 <br>
-    
-<!----------------------------------- Support Section ------------------------------------>
-<h2 align="center">
-    Support me
-    <img align="center" src="https://user-images.githubusercontent.com/52236473/210721322-3f8b4d92-5aa7-447e-aae1-083bd0c7893d.png" width="30" />  
-</h2>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/sumitsharma02">
-        <img align="center" src="https://img.shields.io/badge/Buy me a Beer-FFDd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="https://www.buymeacoffee.com/sumitsharma02" />
-    </a>
-</p>
-<br>
+
