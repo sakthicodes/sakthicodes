@@ -35,7 +35,7 @@
  
 <!----------------------------------- Social Media Links Section ------------------------------------>
 <h2 align="center">
-    Connect with me
+    Connect with me  
     <a>
         <img align="center" src="https://user-images.githubusercontent.com/52236473/210716966-d30ec997-ad2d-488e-9406-b7305bb3a72e.png" width="30" />
     <a/>
